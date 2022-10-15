@@ -1,0 +1,19 @@
+{
+    "Thing 1": {
+        "name":"Gaming",
+        "pic":"gaming.jpg",
+        "Desc":"I love to game and then die in it cuz i am an idiot of the century"
+    },
+    "Thing 2": {
+        "name":"Sleepoing",
+        "pic":"sleeping.png",
+        "Desc":"I am a heavy sleeeper. I like it. And it alwayd comes to me"
+
+    },
+    "Thing 3": {
+        "name":"Eating",
+        "pic":"bingee.gif",
+        "Desc":"Eating is my staple"
+    }
+
+}
